@@ -1,4 +1,4 @@
-# remove
+# extras and dotenv environment variables file
 .ddev/
 .env
 .env.*
@@ -12,18 +12,7 @@
 !/0*
 !/1*
 !/2*
-/wp-content/ai1wm-backups
-/wp-content/cache
-/wp-content/db
-/wp-content/languages
-/wp-content/upgrade
-/wp-content/uploads
-/wp-content/wflogs
-!/wp-content/
-/wp-content/themes/*
-!/wp-content/themes/regiondo
-!/wp-content/themes/index.php
-/wp-content/autoptimize_404_handler.php
+
 
 #IDE
 .idea
@@ -104,9 +93,6 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
-.env
-.env.test
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
