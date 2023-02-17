@@ -10,3 +10,7 @@
 // first_name    underscore
 // FirstName     PascalCase
 // firstname     owercase
+
+let a;
+a = 10;
+console.log(a);
