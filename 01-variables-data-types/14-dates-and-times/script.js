@@ -1,5 +1,6 @@
 let d;
 d = new Date();
+
 //console.log(typeof d); // by default object
 d = d.toString();
 d = new Date(2021, 1, 10, 12, 30, 0); // month is zero based (second)
